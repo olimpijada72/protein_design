@@ -1,5 +1,6 @@
 # references 
-
+.DS_Store
+/weights
 /references
 # Data
 /data/
